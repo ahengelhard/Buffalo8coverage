@@ -1,0 +1,5 @@
+anthropic
+flask
+flask-cors
+pdfplumber
+gunicorn
